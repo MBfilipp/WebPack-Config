@@ -1,4 +1,5 @@
-document.getElementById("title").innerHTML = "He World!";
-
 import "./css/style.css";
 import "./sass/style.sass";
+
+document.getElementById("title").innerHTML = "Hello World!";
+
